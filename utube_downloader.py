@@ -1,11 +1,9 @@
 
-# Updated on 19 July 2024
-# This one works finally after chatGPT help with hacks and tricks.
 # How to start:
 #method 1:
-## python youtube1.py
+# python utube_downloader.py
 #method 2:
-## double click the youtube1.exe on dist folder and the program should open.
+# double click the youtube1.exe on dist folder and the GUI program should open.
 
 import tkinter as tk
 from tkinter import *
