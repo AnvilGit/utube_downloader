@@ -33,7 +33,7 @@ python youtube1.py
 
 
 ### Method 2: Running the executable
-1. If you've already created an executable using tools like PyInstaller, you can run it by double-clicking the youtube1.exe file located in the dist folder.
+1. There is a youtube1.exe file created with PyInstaller, you can run it by double-clicking the file located in the dist folder.
 2. The GUI will open, allowing you to input a YouTube URL and choose whether to download the video or audio.
 
 ### How It Works
