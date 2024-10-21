@@ -38,8 +38,9 @@ python youtube1.py
 
 ### How It Works
  1. Provide a YouTube URL: Enter the YouTube URL you wish to download.
- 2. Choose a destination: Use the "Browse" button to select the folder where you want the downloaded file to be saved.
- 3. Download Video or Audio:
+ 2. Choose a destination:
+  - Use the "Browse" button to select the folder where you want the downloaded file to be saved.
+ 4. Download Video or Audio:
 - Click "Download Videos" to download the video file (in MP4 format).
 - Click "Download Audio" to download only the audio (in MP3 format).
 
